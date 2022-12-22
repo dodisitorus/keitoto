@@ -197,22 +197,23 @@ C. **Services/Marketing Page**
    - If you want to show images instead of videos, change 'video' to 'img' for example "Agency" category (Find it).
 
 3. Other Category
-   Location: /keitoto/components/services-categories-section.html
-   - Find name category, for example : 'SaaS'
-   - Change file link (video or img) to other link
-     img="../assets/images/categories-service/SaaS.png"
-     video="https://cdn.dribbble.com/users/1720295/screenshots/14383662/media/507612fa067b7e1036834c3f231cb796.mp4"
+   1. Location: /keitoto/components/services-categories-section.html
+   2. Note:
+      - Find name category, for example : 'SaaS'
+      - Change file link (video or img) to other link
+        img="../assets/images/categories-service/SaaS.png"
+        video="https://cdn.dribbble.com/users/1720295/screenshots/14383662/media/507612fa067b7e1036834c3f231cb796.mp4"
 
 4. Our 3 Simple Work Process Video
-   Location: /keitoto/assets/videos/services-3process-video.mp4
-   Note: Replace this file with the same file name and extention.
+   1. Location: /keitoto/assets/videos/services-3process-video.mp4
+   2. Note: Replace this file with the same file name and extention.
 
 D. **Industries Page**
 
-1. FAQ
-   a. Location: /keitoto/components/industries-faqs-section.html
-   b. Note:
-   - Change 'Questions 1' for Question Text
-   - Change 'Answer 1 Wilkdevs mantap jiwa' for Answer Text
+1. FAQ 
+   1. Location: /keitoto/components/industries-faqs-section.html
+   2. Note:
+      - Change 'Questions 1' for Question Text
+      - Change 'Answer 1 Wilkdevs mantap jiwa' for Answer Text
  
 
