@@ -213,6 +213,6 @@ D. **Industries Page**
    Location: /keitoto/components/industries-faqs-section.html
    Note:
    - Change 'Questions 1' for Question Text
-   - Change 'Questions 1 Wilkdevs mantap jiwa' for Answer Text
+   - Change 'Answer 1 Wilkdevs mantap jiwa' for Answer Text
  
 
