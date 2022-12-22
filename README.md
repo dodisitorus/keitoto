@@ -210,8 +210,8 @@ C. **Services/Marketing Page**
 D. **Industries Page**
 
 1. FAQ
-   Location: /keitoto/components/industries-faqs-section.html
-   Note:
+   a. Location: /keitoto/components/industries-faqs-section.html
+   b. Note:
    - Change 'Questions 1' for Question Text
    - Change 'Answer 1 Wilkdevs mantap jiwa' for Answer Text
  
