@@ -15,7 +15,7 @@ Scroll down to see What You Need to Change:
       * [Agency.png](./keitoto/assets/images/categories-service/Agency.png)
       * [Crypto.png](./keitoto/assets/images/categories-service/Crypto.png)
       * [NFT.png](./keitoto/assets/images/categories-service/NFT.png)
-      * [Real Estate.png](./keitoto/assets/images/categories-service/Real Estate.png)
+      * [Real-Estate.png](./keitoto/assets/images/categories-service/Real-Estate.png)
       * [SaaS.png](./keitoto/assets/images/categories-service/SaaS.png)
       * [Wedding.png](./keitoto/assets/images/categories-service/Wedding.png)
     * [clients/](./keitoto/assets/images/clients)
@@ -33,7 +33,7 @@ Scroll down to see What You Need to Change:
       * [4.png](./keitoto/assets/images/hww/4.png)
       * [check.png](./keitoto/assets/images/hww/check.png)
     * [industries/](./keitoto/assets/images/industries)
-      * [Why We Love Bank.png](./keitoto/assets/images/industries/Why We Love Bank.png)
+      * [why-we-love-bank.png](./keitoto/assets/images/industries/why-we-love-bank.png)
     * [portofolio-slide/](./keitoto/assets/images/portofolio-slide)
       * [1.png](./keitoto/assets/images/portofolio-slide/1.png)
       * [2.png](./keitoto/assets/images/portofolio-slide/2.png)
@@ -139,6 +139,8 @@ Scroll down to see What You Need to Change:
   * [index.html](./keitoto/services/index.html)
 * [README.md](./keitoto/README.md)
 * [index.html](./keitoto/index.html)
+
+
 
 
 **What You Need To Change:**
