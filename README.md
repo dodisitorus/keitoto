@@ -1,4 +1,4 @@
-Scrool to bottom to see What You Need To Change:
+Scroll down to see What You Need to Change:
 
 **File Tree:**
 # keitoto
