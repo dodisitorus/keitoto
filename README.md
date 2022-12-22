@@ -1,4 +1,4 @@
-**READ ME**
+**README**
 
 **Scroll down to see What You Need to Change:**
 
