@@ -178,7 +178,7 @@ B. **How We Work Page**
    Location: /keitoto/assets/videos/hww-main-video.mp4
    Note: Replace this file with the same file name and extention.
 
-B. **Services/Marketing Page**
+C. **Services/Marketing Page**
 
 1. Gaming Video
    Location: /keitoto/components/services-categories-section.html
@@ -206,3 +206,13 @@ B. **Services/Marketing Page**
 4. Our 3 Simple Work Process Video
    Location: /keitoto/assets/videos/services-3process-video.mp4
    Note: Replace this file with the same file name and extention.
+
+D. **Industries Page**
+
+1. FAQ
+   Location: /keitoto/components/industries-faqs-section.html
+   Note:
+   - Change 'Questions 1' for Question Text
+   - Change 'Questions 1 Wilkdevs mantap jiwa' for Answer Text
+ 
+
