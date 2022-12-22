@@ -162,7 +162,7 @@ A. **Home Page**
    Location: /keitoto/assets/images/show-case/iota.png
    Note: Replace this file with the same file name and extention.
 
-4. Testimoni in Map
+4. Testimony in Map
    Location: /keitoto/assets/data/testimony.js
    Note:
    - key: Unique Id (number)
