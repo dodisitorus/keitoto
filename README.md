@@ -143,7 +143,7 @@
 * [index.html](./keitoto/index.html)
 
 
-
+==========================================
 
 
 **What You Need To Change:**
@@ -151,50 +151,50 @@
 A. **Home Page**
 
 1. Video
-   Location: /keitoto/assets/videos/home-main-video.mp4
-   Note: Replace this file with the same file name and extention.
+   1. Location: /keitoto/assets/videos/home-main-video.mp4
+   2. Note: Replace this file with the same file name and extention.
 
 2. Maxi Thumbnail
-   Location: /keitoto/assets/images/show-case/maxi.png
-   Note: Replace this file with the same file name and extention.
+   1. Location: /keitoto/assets/images/show-case/maxi.png
+   2. Note: Replace this file with the same file name and extention.
 
 3. IOTA Thumbnail
-   Location: /keitoto/assets/images/show-case/iota.png
-   Note: Replace this file with the same file name and extention.
+   1. Location: /keitoto/assets/images/show-case/iota.png
+   2. Note: Replace this file with the same file name and extention.
 
 4. Testimony in Map
-   Location: /keitoto/assets/data/testimony.js
-   Note:
-   - key: Unique Id (number)
-   - message: Testimony Message
-   - author: Testimony Author
-   - detail: Testimony Detail (eg Position Job, Company Nane, etc.)
-   - x: X coordinates, these are not actual map coordinates but based on image coordinates.
-   - y: Y coordinates, these are not actual map coordinates but based on image coordinates.
+   1. Location: /keitoto/assets/data/testimony.js
+   2. Note:
+      - key: Unique Id (number)
+      - message: Testimony Message
+      - author: Testimony Author
+      - detail: Testimony Detail (eg Position Job, Company Nane, etc.)
+      - x: X coordinates, these are not actual map coordinates but based on image coordinates.
+      - y: Y coordinates, these are not actual map coordinates but based on image coordinates.
 
 B. **How We Work Page**
 
 1. Video
-   Location: /keitoto/assets/videos/hww-main-video.mp4
-   Note: Replace this file with the same file name and extention.
+   1. Location: /keitoto/assets/videos/hww-main-video.mp4
+   2. Note: Replace this file with the same file name and extention.
 
 C. **Services/Marketing Page**
 
 1. Gaming Video
-   Location: /keitoto/components/services-categories-section.html
-   Note:
-   - Find "Gaming"
-   - Change video link to other link:
-     video="https://cdn.dribbble.com/users/1720295/screenshots/14383662/media/507612fa067b7e1036834c3f231cb796.mp4"
-   - If you want to show images instead of videos, change 'video' to 'img' for example "Agency" category (Find it).
+   1. Location: /keitoto/components/services-categories-section.html
+   2. Note:
+      - Find "Gaming"
+      - Change video link to other link:
+        video="https://cdn.dribbble.com/users/1720295/screenshots/14383662/media/507612fa067b7e1036834c3f231cb796.mp4"
+      - If you want to show images instead of videos, change 'video' to 'img' for example "Agency" category (Find it).
 
 2. Food & Beverage
-   Location: /keitoto/components/services-categories-section.html
-   Note:
-   - Find "Food & Beverage"
-   - Change video link to other link
-     video="https://cdn.dribbble.com/users/1720295/screenshots/14548783/media/49b0218f29b58c76271508c08c1a9938.mp4"
-   - If you want to show images instead of videos, change 'video' to 'img' for example "Agency" category (Find it).
+   1. Location: /keitoto/components/services-categories-section.html   
+   2. Note:
+      - Find "Food & Beverage"
+      - Change video link to other link
+        video="https://cdn.dribbble.com/users/1720295/screenshots/14548783/media/49b0218f29b58c76271508c08c1a9938.mp4"
+      - If you want to show images instead of videos, change 'video' to 'img' for example "Agency" category (Find it).
 
 3. Other Category
    1. Location: /keitoto/components/services-categories-section.html
