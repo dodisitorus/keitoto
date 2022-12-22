@@ -180,7 +180,6 @@ B. **Services/Marketing Page**
 1. Gaming Video
    Location: /keitoto/components/services-categories-section.html
    Note:
-
    - Find "Gaming"
    - Change video link to other link:
      video="https://cdn.dribbble.com/users/1720295/screenshots/14383662/media/507612fa067b7e1036834c3f231cb796.mp4"
@@ -189,7 +188,6 @@ B. **Services/Marketing Page**
 2. Food & Beverage
    Location: /keitoto/components/services-categories-section.html
    Note:
-
    - Find "Food & Beverage"
    - Change video link to other link
      video="https://cdn.dribbble.com/users/1720295/screenshots/14548783/media/49b0218f29b58c76271508c08c1a9938.mp4"
@@ -197,7 +195,6 @@ B. **Services/Marketing Page**
 
 3. Other Category
    Location: /keitoto/components/services-categories-section.html
-
    - Find name category, for example : 'SaaS'
    - Change file link (video or img) to other link
      img="../assets/images/categories-service/SaaS.png"
